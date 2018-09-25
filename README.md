@@ -14,4 +14,7 @@
   学習の実行
 
 3. 学習データの反映  
-  `Tesseract/share/tessdata/` 内に2.で作成したtraineddataを格納
+  `Tesseract/share/tessdata/` 内に2.で作成したtraineddataを格納  
+
+※jTessBoxEditorを使わない場合は下記参照  
+https://github.com/tesseract-ocr/tesseract/wiki/Training-Tesseract-%E2%80%93-Make-Box-Files
